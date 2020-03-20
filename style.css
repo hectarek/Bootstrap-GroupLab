@@ -1,25 +1,22 @@
-.container {
-  margin: 30px auto;
-}
 .col-sm-1 {
-    border: 1px #ccc solid;
-    background-color: yellow;
-    text-align: center;
-  }
+  border: 1px #ccc solid;
+  background-color: yellow;
+  text-align: center;
+}
 
-  .col-sm-4 {
-    border: 1px #ccc solid;
-    background-color: blue;
-    text-align: center;
-    color: white;
-  }
+.col-sm-4 {
+  border: 1px #ccc solid;
+  background-color: blue;
+  text-align: center;
+  color: white;
+}
 
-  .col-sm-6 {
-    border: 1px green solid;
-    background-color: blue;
-    text-align: center;
-    color: white;
-  }
+.col-sm-6 {
+  border: 1px green solid;
+  background-color: blue;
+  text-align: center;
+  color: white;
+}
   
   
   
